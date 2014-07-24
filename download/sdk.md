@@ -1,9 +1,9 @@
 ---
 layout: sdk-download
-title: Download Scala IDE for Eclipse
+title: Download the Full Scala IDE for Eclipse
 ---
 
-The bundle contains the lastest release version of the Scala IDE for Eclipse and it comes pre-configured
+This is a all-in-one bundle that contains the lastest release version of the Scala IDE for Eclipse and comes pre-configured
 for optimal performance. No need to configure update sites, and *Check for updates* will keep your
 development environment up to date.
 
